@@ -44,8 +44,7 @@ Le programme génère automatiquement une clé et un vecteur d'initialisation (*
 ```
 
 Étape 3 : Fournir le chemin du fichier
-Lorsqu'invité par le programme, collez le chemin du fichier précédemment copié.
-Suivez les instructions pour finaliser le chiffrement ou le déchiffrement.
+Lorsque le programme programme le demande, collez le chemin du fichier précédemment copié.
 
 ## 💡 Exemple de sortie
 
