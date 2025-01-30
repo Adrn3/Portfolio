@@ -50,17 +50,17 @@ Lorsque le programme programme le demande, collez le chemin du fichier précéde
 
 **Clé générée** : Le programme génère une clé aléatoire qui pourrait ressembler à ceci :
 b'G5z8K1vP2l0Jm3Nx'
-**Vecteur d'initialisation (IV)** : Un IV unique sera également généré, par exemple :
+- **Vecteur d'initialisation (IV)** : Un IV unique sera également généré, par exemple :
 b'9a8b7c6d5e4f3g2h'.
 
-Le fichier chiffré sera enregistré dans le même dossier sous un nouveau nom. Par exemple :
-Si le fichier d'origine s'appelle document.txt, le fichier chiffré pourrait s'appeler document_encrypted.txt.
+Le fichier chiffré sera enregistré dans le même dossier sous un nouveau nom (fichier_chiffre.txt).
 
 ## ❓ Dépannage
 **Problèmes fréquents:**
 **1. pip non reconnu:**
 Vérifiez que Python est bien installé et ajouté à votre PATH (surtout sous Windows).
 Consultez ce guide pour plus d'informations : Configurer pip.
+
 **2.Fichier introuvable:**
 Assurez-vous que le chemin du fichier est correct et qu'il est dans le même dossier que chiffrement.py.
 Vérifiez les permissions d'accès au fichier.
