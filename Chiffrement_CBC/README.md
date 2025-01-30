@@ -33,22 +33,22 @@ Le programme génère automatiquement une clé et un vecteur d'initialisation (*
    Placez le fichier que vous souhaitez chiffrer **dans le même dossier que le script Python** .
 2. Copiez le chemin complet du fichier pour le coller dans le programme lors de l'exécution.
 
-Étape 2 : Lancer le programme
+Étape 2 : Lancer le programme dans un cmd, en indiquant simplement le chemin du programme.
 - **Windows** : 
 ```bash
-   python chiffrement.py
+   python chemin\vers\chiffrement.py
 ```
 - **Linux** :
 ```bash
-   python3 chiffrement.py
+   python3 chemin\vers\chiffrement.py
 ```
 
 Étape 3 : Fournir le chemin du fichier
-Lorsque le programme programme le demande, collez le chemin du fichier précédemment copié.
+Lorsque le programme programme le demande, collez le chemin du fichier précédemment copié. Ne pas oublier de retirer les guillements du chemin du fichier.
 
 ## 💡 Exemple de sortie
 
-**Clé générée** : Le programme génère une clé aléatoire qui pourrait ressembler à ceci :
+- **Clé générée** : Le programme génère une clé aléatoire qui pourrait ressembler à ceci :
 b'G5z8K1vP2l0Jm3Nx'
 - **Vecteur d'initialisation (IV)** : Un IV unique sera également généré, par exemple :
 b'9a8b7c6d5e4f3g2h'.
