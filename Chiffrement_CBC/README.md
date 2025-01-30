@@ -44,6 +44,7 @@ Le programme génère automatiquement une clé et un vecteur d'initialisation (*
 ```
 
 Étape 3 : Fournir le chemin du fichier
+
 Lorsque le programme programme le demande, collez le chemin du fichier précédemment copié. Ne pas oublier de retirer les guillements du chemin du fichier.
 
 ## 💡 Exemple de sortie
