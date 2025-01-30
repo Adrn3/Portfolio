@@ -37,16 +37,17 @@ Le programme génère automatiquement une clé et un vecteur d'initialisation (*
 - **Windows** : 
 ```bash
    python chiffrement.py
-
+```
 - **Linux** :
 ```bash
    python3 chiffrement.py
+```
 
 Étape 3 : Fournir le chemin du fichier
 Lorsqu'invité par le programme, collez le chemin du fichier précédemment copié.
 Suivez les instructions pour finaliser le chiffrement ou le déchiffrement.
 
-##💡 Exemple de sortie
+## 💡 Exemple de sortie
 
 **Clé générée** : Le programme génère une clé aléatoire qui pourrait ressembler à ceci :
 b'G5z8K1vP2l0Jm3Nx'
