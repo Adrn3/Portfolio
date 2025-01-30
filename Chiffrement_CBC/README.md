@@ -58,6 +58,7 @@ Le fichier chiffré sera enregistré dans le même dossier sous un nouveau nom (
 
 ## ❓ Dépannage
 **Problèmes fréquents:**
+
 **1. pip non reconnu:**
 Vérifiez que Python est bien installé et ajouté à votre PATH (surtout sous Windows).
 Consultez ce guide pour plus d'informations : Configurer pip.
@@ -65,10 +66,12 @@ Consultez ce guide pour plus d'informations : Configurer pip.
 **2.Fichier introuvable:**
 Assurez-vous que le chemin du fichier est correct et qu'il est dans le même dossier que chiffrement.py.
 Vérifiez les permissions d'accès au fichier.
-**3.Problèmes liés aux bibliothèques :
+
+**3.Problèmes liés aux bibliothèques** :
 Réinstallez les bibliothèques nécessaires avec :
 ```bash
    pip install pyfiglet
+```
 
 ## 📄 Licence
 Ce projet est open-source et disponible sous la licence MIT. Vous pouvez l'utiliser, le modifier et le distribuer librement.
