@@ -19,7 +19,7 @@ Le programme génère automatiquement une clé et un vecteur d'initialisation (*
 2. **Bibliothèques nécessaires** :  
    Ce programme utilise les bibliothèques suivantes :  
    - `pyfiglet` (à installer avec pip)  
-   - `secrets` (inclus nativement dans Python, aucune installation requise)  
+   - `secrets` (peut-être inclus nativement dans Python)  
 
    Installez les bibliothèques manquantes avec :  
    ```bash
